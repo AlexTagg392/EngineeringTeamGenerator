@@ -1,0 +1,16 @@
+.jumbotron {
+    background-color: burlywood;
+    color: blueviolet;
+    font-family: sans-serif;
+}
+body {
+    background-color: lightgray;
+}
+.card-header {
+    background-color: burlywood;
+    color: darkblue;
+}
+.card-body {
+    background-color: grey;
+    color: green;
+}
