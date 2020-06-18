@@ -114,7 +114,7 @@ function appMenu () {
             {
                 type: "input",
                 message: "Please enter your school",
-                name: "github"
+                name: "school"
             },
         ])
         .then(res => {
