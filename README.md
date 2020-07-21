@@ -1,6 +1,6 @@
 # Engineering Team Profile Generator
 
-# Table of Contents
+## Table of Contents
 
 - [Description](#description)
 - [Installation](#installation)
@@ -27,6 +27,8 @@
     Mine
 ## License:
     For more information about the License, click on the link below.
+    
+    No current License
     
 - [License](https://opensource.org/licenses/)
 
